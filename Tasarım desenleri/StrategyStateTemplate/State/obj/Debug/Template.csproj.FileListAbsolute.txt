@@ -1,0 +1,6 @@
+C:\Users\subzero\source\repos\163301060_Odev5\State\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Users\subzero\source\repos\163301060_Odev5\State\bin\Debug\State.exe.config
+C:\Users\subzero\source\repos\163301060_Odev5\State\bin\Debug\State.exe
+C:\Users\subzero\source\repos\163301060_Odev5\State\bin\Debug\State.pdb
+C:\Users\subzero\source\repos\163301060_Odev5\State\obj\Debug\State.exe
+C:\Users\subzero\source\repos\163301060_Odev5\State\obj\Debug\State.pdb

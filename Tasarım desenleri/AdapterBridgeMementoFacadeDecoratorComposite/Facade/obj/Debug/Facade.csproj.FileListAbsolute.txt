@@ -1,0 +1,7 @@
+C:\Users\subzero\source\repos\163301060_Odev6\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\Users\subzero\source\repos\163301060_Odev6\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\subzero\source\repos\163301060_Odev6\Facade\bin\Debug\Facade.exe.config
+C:\Users\subzero\source\repos\163301060_Odev6\Facade\bin\Debug\Facade.exe
+C:\Users\subzero\source\repos\163301060_Odev6\Facade\bin\Debug\Facade.pdb
+C:\Users\subzero\source\repos\163301060_Odev6\Facade\obj\Debug\Facade.exe
+C:\Users\subzero\source\repos\163301060_Odev6\Facade\obj\Debug\Facade.pdb

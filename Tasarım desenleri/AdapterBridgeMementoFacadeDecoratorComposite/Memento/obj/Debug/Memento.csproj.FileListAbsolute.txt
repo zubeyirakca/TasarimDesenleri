@@ -1,0 +1,6 @@
+C:\Users\subzero\source\repos\163301060_Odev6\163301060_Odev6\bin\Debug\163301060_Odev6.exe.config
+C:\Users\subzero\source\repos\163301060_Odev6\163301060_Odev6\bin\Debug\163301060_Odev6.exe
+C:\Users\subzero\source\repos\163301060_Odev6\163301060_Odev6\bin\Debug\163301060_Odev6.pdb
+C:\Users\subzero\source\repos\163301060_Odev6\163301060_Odev6\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\subzero\source\repos\163301060_Odev6\163301060_Odev6\obj\Debug\163301060_Odev6.exe
+C:\Users\subzero\source\repos\163301060_Odev6\163301060_Odev6\obj\Debug\163301060_Odev6.pdb

@@ -1,0 +1,6 @@
+C:\Users\subzero\source\repos\163301060_Odev6\BridgePattern\bin\Debug\BridgePattern.exe.config
+C:\Users\subzero\source\repos\163301060_Odev6\BridgePattern\bin\Debug\BridgePattern.exe
+C:\Users\subzero\source\repos\163301060_Odev6\BridgePattern\bin\Debug\BridgePattern.pdb
+C:\Users\subzero\source\repos\163301060_Odev6\BridgePattern\obj\Debug\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\subzero\source\repos\163301060_Odev6\BridgePattern\obj\Debug\BridgePattern.exe
+C:\Users\subzero\source\repos\163301060_Odev6\BridgePattern\obj\Debug\BridgePattern.pdb

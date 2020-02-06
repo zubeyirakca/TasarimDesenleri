@@ -1,0 +1,7 @@
+C:\Users\subzero\source\repos\DesignPattern3\DesignPattern3\bin\Debug\DesignPattern3.exe.config
+C:\Users\subzero\source\repos\DesignPattern3\DesignPattern3\bin\Debug\DesignPattern3.exe
+C:\Users\subzero\source\repos\DesignPattern3\DesignPattern3\bin\Debug\DesignPattern3.pdb
+C:\Users\subzero\source\repos\DesignPattern3\DesignPattern3\obj\Debug\IteratorPattern.csprojAssemblyReference.cache
+C:\Users\subzero\source\repos\DesignPattern3\DesignPattern3\obj\Debug\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\subzero\source\repos\DesignPattern3\DesignPattern3\obj\Debug\DesignPattern3.exe
+C:\Users\subzero\source\repos\DesignPattern3\DesignPattern3\obj\Debug\DesignPattern3.pdb

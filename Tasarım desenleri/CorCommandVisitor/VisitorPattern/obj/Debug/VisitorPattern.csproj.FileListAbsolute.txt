@@ -1,0 +1,7 @@
+C:\Users\subzero\Downloads\163301060_Odev4\chain_of_res_sample\VisitorPattern\obj\Debug\VisitorPattern.csprojAssemblyReference.cache
+C:\Users\subzero\Downloads\163301060_Odev4\chain_of_res_sample\VisitorPattern\obj\Debug\VisitorPattern.csproj.CoreCompileInputs.cache
+C:\Users\subzero\Downloads\163301060_Odev4\chain_of_res_sample\VisitorPattern\bin\Debug\VisitorPattern.exe.config
+C:\Users\subzero\Downloads\163301060_Odev4\chain_of_res_sample\VisitorPattern\bin\Debug\VisitorPattern.exe
+C:\Users\subzero\Downloads\163301060_Odev4\chain_of_res_sample\VisitorPattern\bin\Debug\VisitorPattern.pdb
+C:\Users\subzero\Downloads\163301060_Odev4\chain_of_res_sample\VisitorPattern\obj\Debug\VisitorPattern.exe
+C:\Users\subzero\Downloads\163301060_Odev4\chain_of_res_sample\VisitorPattern\obj\Debug\VisitorPattern.pdb

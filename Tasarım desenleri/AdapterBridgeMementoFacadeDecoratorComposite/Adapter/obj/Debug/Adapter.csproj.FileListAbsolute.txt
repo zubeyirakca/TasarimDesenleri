@@ -1,0 +1,7 @@
+C:\Users\subzero\source\repos\163301060_Odev6\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\subzero\source\repos\163301060_Odev6\Adapter\bin\Debug\Adapter.exe
+C:\Users\subzero\source\repos\163301060_Odev6\Adapter\bin\Debug\Adapter.pdb
+C:\Users\subzero\source\repos\163301060_Odev6\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\subzero\source\repos\163301060_Odev6\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\subzero\source\repos\163301060_Odev6\Adapter\obj\Debug\Adapter.exe
+C:\Users\subzero\source\repos\163301060_Odev6\Adapter\obj\Debug\Adapter.pdb

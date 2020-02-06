@@ -1,0 +1,7 @@
+C:\Users\subzero\source\repos\163301060_Odev5\163301060_Odev5\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\subzero\source\repos\163301060_Odev5\163301060_Odev5\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\subzero\source\repos\163301060_Odev5\163301060_Odev5\bin\Debug\163301060_Odev5.exe.config
+C:\Users\subzero\source\repos\163301060_Odev5\163301060_Odev5\bin\Debug\163301060_Odev5.exe
+C:\Users\subzero\source\repos\163301060_Odev5\163301060_Odev5\bin\Debug\163301060_Odev5.pdb
+C:\Users\subzero\source\repos\163301060_Odev5\163301060_Odev5\obj\Debug\163301060_Odev5.exe
+C:\Users\subzero\source\repos\163301060_Odev5\163301060_Odev5\obj\Debug\163301060_Odev5.pdb
